@@ -1,0 +1,21 @@
+h1 
+{
+    font-size: 80px;
+    font-family: Impact;
+}
+p 
+{
+    font-size: 35px;
+}
+.bt
+{
+    background-color: blue;
+    border: 2px solid black;
+    color: aliceblue;
+    width: 250px;
+    height: 80px;
+}
+button:hover
+{
+    background-color: green;
+}
